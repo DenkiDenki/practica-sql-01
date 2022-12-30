@@ -1,0 +1,1 @@
+INSERT INTO `localidades`(`Id_Localidad`, `Nombre_Localidad`) VALUES ('15','Ezeiza');

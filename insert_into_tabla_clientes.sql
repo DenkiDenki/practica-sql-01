@@ -1,0 +1,1 @@
+INSERT INTO `clientes`(`Id_Cliente`, `Nombre`, `Apellido`, `Id_Localidad`) VALUES ('1','Juan', 'Gomez', 15);

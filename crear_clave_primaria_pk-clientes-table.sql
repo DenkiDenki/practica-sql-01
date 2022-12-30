@@ -1,0 +1,2 @@
+ALTER TABLE Clientes
+ADD PRIMARY KEY (Id_Cliente);
